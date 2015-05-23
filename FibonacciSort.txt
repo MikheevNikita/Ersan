@@ -1,0 +1,14 @@
+The task I give you is the one you’ve already got once, but did not accomplish to do:
+User types in a number, which will then become the size of an array, then he fills it with numbers. Your program (all written in main method) should take this array an then sort its elements, but only those, which are on position 1, 2, 3, 5, 8, 13… (fibonacci numbers).
+
+Example:
+User defines 9 as a length of an array and fills it the following way:
+[5] [2] [3] [1] [1] [4] [8] [12] [1]
+Your program should make another array with ints on fibonacci positions:
+[2] [3] [1] [4] [1]
+And then sort it, so an output looks like this:
+1	1	2	3	4
+
+If you manage to write it easily, write another version, where there you work with given array only (so you do not make another one on the second step).
+P.S. You better do the second version too, because I’ll make you do it anyway. 
+gl
