@@ -1,0 +1,11 @@
+Spring Filling.
+This is a tough one, so brace yourself.
+A user types in a number and your program makes a two dimensional array, which is then filled with a number sequnce the spring way, so the output should look something like this: 
+
+[ 1][ 2][ 3][ 4][ 5]
+[16][17][18][19][ 6]
+[15][24][25][20][ 7]
+[14][23][22][21][ 8]
+[13][12][11][10][ 9]
+
+Hint: It’s a huge “while” loop with some other “while” loops inside it.
